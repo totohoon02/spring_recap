@@ -1,7 +1,7 @@
 # spring_recap
 some spring basic skills for recap!
 
-### dependencies
+### Dependencies
 - web
 - lombok
 - jpa
@@ -34,4 +34,7 @@ public ItemRepositoryImpl(DataSource dataSource) {
 - method name based inference
 - extends JpaRepository(entity, pk)
 - ORM
-[CRUD Example](https://github.com/totohoon02/spring_recap/blob/main/MemberService.java)
+  
+[CRUD Example - Service](https://github.com/totohoon02/spring_recap/blob/main/MemberService.java)
+<br>
+[CRUD Example - Repository](https://github.com/totohoon02/spring_recap/blob/main/MemberRepository.java)
