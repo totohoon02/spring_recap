@@ -31,4 +31,7 @@ public ItemRepositoryImpl(DataSource dataSource) {
 [CRUD Example](https://github.com/totohoon02/spring_recap/blob/main/ItemRepositoryImpl.java)
 
 ### JPA
--
+- method name based inference
+- extends JpaRepository(entity, pk)
+- ORM
+[CRUD Example](https://github.com/totohoon02/spring_recap/blob/main/MemberService.java)
